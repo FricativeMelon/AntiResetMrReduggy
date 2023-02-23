@@ -1,0 +1,11 @@
+{
+  "Name": "[CP] MrReduggy",
+  "Author": "FricativeMelon",
+  "Version": "1.0.0",
+  "Description": "Adds Mr. Reduggy NPC.",
+  "UniqueID": "FricativeMelon.CPMrReduggy",
+  "UpdateKeys": [ "Nexus:15480" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

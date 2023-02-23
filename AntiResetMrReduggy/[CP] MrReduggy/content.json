@@ -1,0 +1,32 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Mr. Reduggy",
+      "FromFile": "assets/sprites.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Mr. Reduggy",
+      "FromFile": "assets/portraits.png"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries": {
+        "Mr. Reduggy": "adult/rude/neutral/positive/male/secret//Other/summer 7//Mine 3 5/Mr. Reduggy"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/schedules/Mr. Reduggy",
+      "FromFile": "assets/schedule.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Mr. Reduggy",
+      "FromFile": "assets/dialogue.json"
+    }
+  ]
+}

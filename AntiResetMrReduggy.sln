@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiResetMrReduggy", "AntiResetMrReduggy\AntiResetMrReduggy.csproj", "{DCC64394-F1F9-429F-A39A-95811D8901AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC64394-F1F9-429F-A39A-95811D8901AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC64394-F1F9-429F-A39A-95811D8901AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC64394-F1F9-429F-A39A-95811D8901AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC64394-F1F9-429F-A39A-95811D8901AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F43E50-4BD3-4216-BA6A-C9D015861F41}
+	EndGlobalSection
+EndGlobal

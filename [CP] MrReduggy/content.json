@@ -1,0 +1,15 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/MrReduggy",
+      "FromFile": "assets/MrReduggy.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/MrReduggy",
+      "FromFile": "assets/MrReduggy.png"
+    }
+  ]
+}
