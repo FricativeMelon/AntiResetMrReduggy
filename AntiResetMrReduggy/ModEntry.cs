@@ -176,7 +176,12 @@ namespace AntiResetMrReduggy
                 };
                 this.Helper.Data.WriteGlobalData("reset", model);
             }
-
+            else if (model.dayNum >= Game1.Date.TotalDays)
+            {
+                model.dayNum = Game1.Date.TotalDays;
+                model.realTime = DateTime.Now;
+                this.Helper.Data.WriteGlobalData("reset", model);
+            }
         }
 
         private void OnTimeChanged(object sender, TimeChangedEventArgs e)
